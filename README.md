@@ -1,3 +1,11 @@
 # Password Generator Starter Code
 
-The application is to generate a random secure password. 
+## Purpose
+To generate a random secure password. 
+
+## Built With
+* HTML
+* CSS
+* javaScript
+
+## Website
