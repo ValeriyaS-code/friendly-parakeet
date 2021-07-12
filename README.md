@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator 
 
 ## Purpose
 To generate a random secure password. 
